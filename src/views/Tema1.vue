@@ -5,7 +5,7 @@
 
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 1
+        span.text-white 1
       h1 Transporte en cadena de frio
 
     .row.align-items-center.mb-5
@@ -67,8 +67,8 @@
               .col-6
                 figure
                   img(src='@/assets/curso/t1/f6.png', alt='')
-            h3.text-center Alimento refrigerado
-            p Un alimento refrigerado es el que se lleva a enfriamiento hasta una temperatura adecuada entre 4°C y +/- 2°C, para el almacenamiento, evitando llegar al punto de congelación.
+            h3.text-center.cst Alimento refrigerado
+            p.cst Un alimento refrigerado es el que se lleva a enfriamiento hasta una temperatura adecuada entre 4°C y +/- 2°C, para el almacenamiento, evitando llegar al punto de congelación.
       .tarjeta.tarjeta--azul.p-4(titulo='Temperaturas exigidas en el transporte')
         h3 Temperaturas exigidas en el transporte
         p Los transportadores de alimentos deben operar bajo condiciones de temperaturas reguladas, las cuales están dadas por la normatividad, para el caso, en la resolución 002505 de 2004 se estipulan las temperaturas mínimas y máximas según el tipo de alimento que se transporte, ver figura 1. 

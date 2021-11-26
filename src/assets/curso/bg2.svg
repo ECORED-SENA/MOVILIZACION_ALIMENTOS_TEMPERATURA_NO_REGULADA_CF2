@@ -1,6 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="930" height="489" viewBox="0 0 930 489">
-  <g id="Grupo_128338" data-name="Grupo 128338" transform="translate(-331 -6421)">
-    <line id="Línea_1302" data-name="Línea 1302" x2="930" transform="translate(331 6423)" fill="none" stroke="#28acd3" stroke-width="4"/>
-    <line id="Línea_1303" data-name="Línea 1303" x2="930" transform="translate(331 6908)" fill="none" stroke="#28acd3" stroke-width="4"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1212 489" style="enable-background:new 0 0 1212 489;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Rectángulo_44086_00000124128002904608594650000015788109845346480773_);}
+	.st1{fill:none;stroke:#28ACD3;stroke-width:7;}
+	.st2{fill:none;stroke:#28ACD3;stroke-width:4;}
+</style>
+<linearGradient id="Rectángulo_44086_00000166659346193133721500000007763929075654275986_" gradientUnits="userSpaceOnUse" x1="-594.9484" y1="-119.3517" x2="-594.9484" y2="-118.6828" gradientTransform="matrix(-930 0 0 -725 -552696 -86043)">
+	<stop  offset="0" style="stop-color:#C7EDFF"/>
+	<stop  offset="0.2446" style="stop-color:#CDEFFF"/>
+	<stop  offset="0.5554" style="stop-color:#DCF4FF"/>
+	<stop  offset="0.9008" style="stop-color:#F6FCFF"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<rect id="Rectángulo_44086" x="0" y="2" style="fill:url(#Rectángulo_44086_00000166659346193133721500000007763929075654275986_);" width="1212" height="485"/>
+<line id="Línea_1302" class="st1" x1="0" y1="2" x2="1212" y2="2"/>
+<line id="Línea_1303" class="st2" x1="0" y1="487" x2="1212" y2="487"/>
 </svg>

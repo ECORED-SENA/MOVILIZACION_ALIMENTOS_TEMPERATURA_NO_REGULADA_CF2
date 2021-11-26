@@ -72,7 +72,7 @@
                     | 2674 de 2013
       h3 Requisitos de personal que manipulan los alimentos en cadena de frio
       p La resolución 2674 de 2013, refiere en el capítulo III art 11, art 12 y art 13 y art 14 del personal manipulador de alimentos lo siguiente:
-      SlyderA(tipo="b")
+      SlyderA.fblanco.p-4.tarjeta(tipo="b")
         .row.align-items-center
           .col-lg-6
             p Disponer de certificación médica que haga constar la aptitud para la manipulación de alimentos, este certificado debe obtenerse de forma anual.
@@ -127,7 +127,7 @@
       p El capítulo IV de la resolución 2674 de 2013, establece los requisitos higiénicos de fabricación, y el artículo 16 refiere al proceso de recepción de mercancías con disposiciones como: 
       p Las materias primas y los insumos para la fabricación, preparación, procesamiento, envase y almacenamiento de alimentos deben tener los siguientes requisitos: 
 
-      .bg1.p-4
+      .bg1.p-4.mb-4
         .row.align-items-center
           .col-auto
             figure
@@ -164,7 +164,7 @@
                 i.lista-ul__vineta
                 | Se debe separar las zonas de recepción de materias primas e insumos de las zonas de producción y envasado. 
 
-      .bg1.p-4
+      .bg2.p-4.mb-4
         .row.align-items-center
           .col-auto
             figure
@@ -203,22 +203,22 @@
               img(src='@/assets/curso/t2/f21.svg' alt='imagen relacionada')
       .border34.fcp.bcp
         SlyderA
-          .text-white
-            p Debe tener condiciones que impidan contaminación o proliferación de microorganismos, así como evitar alteraciones en los productos, daños en el envase o embalaje.
-          .text-white
-            p Los insumos o materias primas que por su naturaleza requieran mantenerse refrigerados o en su defecto congelados, se debe usar las condiciones que garanticen dichas condiciones, desde su origen hasta el destino.
-          .text-white
-            p Los sistemas de refrigeración o congelación de los medios de transporte utilizados deben garantizar el adecuado funcionamiento de los equipos.
-          .text-white
-            p Se deben garantizar las adecuadas condiciones sanitarias de los medios de transporte, así como su limpieza y desinfección.
-          .text-white
-            p Es permitido transportar de manera conjunta alimentos con diferentes riesgos, siempre que estén adecuadamente envasados y protegidos y se disminuya el riesgo de contaminación cruzada.
-          .text-white
-            p No se puede almacenar alimentos directamente en el piso de los vehículos, se deben usar canastillas, o elementos que aíslen de las posibilidades de contaminación.
-          .text-white
-            p Se tiene absoluta prohibición de trasladar alimentos y sustancias peligrosas u otras sustancias que presenten riesgo de contaminación en un mismo vehículo.
-          .text-white
-            p Se debe garantizar que los vehículos que transportan alimentos cumplan con todos los requisitos sanitarios establecidos en la normatividad colombiana.
+          .text-white.px-5.pt-4.pb-5
+            p.mb-5 Debe tener condiciones que impidan contaminación o proliferación de microorganismos, así como evitar alteraciones en los productos, daños en el envase o embalaje.
+          .text-white.px-5.pt-4.pb-5
+            p.mb-5 Los insumos o materias primas que por su naturaleza requieran mantenerse refrigerados o en su defecto congelados, se debe usar las condiciones que garanticen dichas condiciones, desde su origen hasta el destino.
+          .text-white.px-5.pt-4.pb-5
+            p.mb-5 Los sistemas de refrigeración o congelación de los medios de transporte utilizados deben garantizar el adecuado funcionamiento de los equipos.
+          .text-white.px-5.pt-4.pb-5
+            p.mb-5 Se deben garantizar las adecuadas condiciones sanitarias de los medios de transporte, así como su limpieza y desinfección.
+          .text-white.px-5.pt-4.pb-5
+            p.mb-5 Es permitido transportar de manera conjunta alimentos con diferentes riesgos, siempre que estén adecuadamente envasados y protegidos y se disminuya el riesgo de contaminación cruzada.
+          .text-white.px-5.pt-4.pb-5
+            p.mb-5 No se puede almacenar alimentos directamente en el piso de los vehículos, se deben usar canastillas, o elementos que aíslen de las posibilidades de contaminación.
+          .text-white.px-5.pt-4.pb-5
+            p.mb-5 Se tiene absoluta prohibición de trasladar alimentos y sustancias peligrosas u otras sustancias que presenten riesgo de contaminación en un mismo vehículo.
+          .text-white.px-5.pt-4.pb-5
+            p.mb-5 Se debe garantizar que los vehículos que transportan alimentos cumplan con todos los requisitos sanitarios establecidos en la normatividad colombiana.
 
 
 </template>
