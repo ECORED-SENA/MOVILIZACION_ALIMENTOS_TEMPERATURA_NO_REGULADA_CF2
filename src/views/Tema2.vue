@@ -44,17 +44,17 @@
         figure
           img(src='@/assets/curso/t2/f4.png' alt='imagen relacionada')
 
-    .col-lg-10.mx-auto.fcp20.p-5.mb-5
+    .col-lg-10.mx-auto.p-5.mb-5(style='background-color: #F3F9FF')
       h3 Vigilancia y control del transporte refrigerado
       p La resolución 2674 de 2013 establece que:
-      .row.mb-4
-        .col-lg-4
+      .row.justify-content-center.mb-4
+        .col-xl-4.col-lg-5.col-md-6.mb-4
           figure
             img(src='@/assets/curso/t2/f5.svg' alt='1.	Corresponde a las autoridades sanitarias realizar actividades de inspección, vigilancia y control sobre el procesamiento, preparación, envase, almacenamiento, transporte, distribución y comercialización, de los alimentos destinados al consumo humano, así como a las materias primas. ')
-        .col-lg-4
+        .col-xl-4.col-lg-5.col-md-6.mb-4
           figure
             img(src='@/assets/curso/t2/f6.svg' alt='2.	Se definen como autoridades sanitarias el Instituto Nacional de Vigilancia de Medicamentos y Alimentos, las entidades territoriales de Salud.')
-        .col-lg-4
+        .col-xl-4.col-lg-5.col-md-6.mb-4
           figure
             img(src='@/assets/curso/t2/f7.svg' alt='3.	Se define también que los vehículos que prestan servicio de transporte de alimentos, así como de materias primas, deben cumplir los requisitos sanitarios que garanticen la conservación y protección de estos, la autoridad sanitaria ejerce las acciones de inspección, vigilancia y control en garantía del cumplimiento de la normatividad.')
       .col-lg-9.mx-auto.mb-5
@@ -122,7 +122,7 @@
             figure
               img(src='@/assets/curso/t2/f15.png' alt='imagen relacionada')
 
-    .col-lg-10.mx-auto.fcp20.p-5.mb-5
+    .col-lg-10.mx-auto.p-5.mb-5(style='background-color: #F3F9FF')
       h3 Envasado y embalado
       p El capítulo IV de la resolución 2674 de 2013, establece los requisitos higiénicos de fabricación, y el artículo 16 refiere al proceso de recepción de mercancías con disposiciones como: 
       p Las materias primas y los insumos para la fabricación, preparación, procesamiento, envase y almacenamiento de alimentos deben tener los siguientes requisitos: 
@@ -192,7 +192,7 @@
                 | Los envases que estén en contacto con los alimentos deben permanecer en buen estado y limpios, y deben estar desinfectados.
               li 
                 i.lista-ul__vineta
-                | Los envase y embalajes se deben acopiar en un lugar determinado para ello, bajo condiciones de limpieza y protegidos.
+                | Los envases y embalajes se deben acopiar en un lugar determinado para ello, bajo condiciones de limpieza y protegidos.
 
       .border12.fblanco.bcp.p-4
         .row.align-items-center

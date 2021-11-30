@@ -83,12 +83,12 @@
         p Se entiende como unidad de transporte el espacio de un vehículo destinado a la carga, para vehículos rígidos la unidad de transporte es la carrocería, para vehículos articulados es el semirremolque o el remolque. 
         p.text-center A continuación se presenta la diferencia entre un vehículo isotérmico y uno refrigerado.
         .row.justify-content-around
-          .col-lg-5
+          .col-xl-4.col-lg-7.col-md-8.col-sm-9.mb-4
             figure
-              img(src='@/assets/curso/t1/f8.svg', alt='El vehículo isotérmico es la construcción que tiene la unidad de transporte, en paredes, techos, pisos y puertas que aísla y limita posibles intercambios de calor entre el exterior y el interior de la unidad de transporte.')
-          .col-lg-5
+              img(src='@/assets/curso/t1/f8.svg', alt='El vehículo isotérmico es la construcción que tiene la unidad de transporte, en paredes, techos, pisos y puertas que aísla y limita posibles intercambios de calor entre el exterior y el interior de la unidad de transporte.' style='min-width:250px')
+          .col-xl-4.col-lg-7.col-md-8.col-sm-9.mb-4
             figure
-              img(src='@/assets/curso/t1/f9.svg', alt='El vehículo refrigerado es aquel, al que es posible reducirle la temperatura al interior de la unidad de transporte, la temperatura puede llegar hasta -20°C, y esta se puede mantener incluso si la temperatura ambiente exterior es en promedio de 30°C.')
+              img(src='@/assets/curso/t1/f9.svg', alt='El vehículo refrigerado es aquel, al que es posible reducirle la temperatura al interior de la unidad de transporte, la temperatura puede llegar hasta -20°C, y esta se puede mantener incluso si la temperatura ambiente exterior es en promedio de 30°C.' style='min-width:250px')
     
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido
@@ -109,7 +109,8 @@
         figure(data-aos='fade-left')
           img(src='@/assets/curso/t1/f10.svg', alt='')
     
-    p El control para que los transportadores de alimentos lo hagan bajo el cumplimiento de la normatividad estipulada por el Ministerio de Transporte, lo realizan las autoridades de tránsito y transporte, y estos pueden disponer del apoyo de las autoridades sanitarias cuando se considere necesario.
+    .cajon.color-primario.p-4
+      p.mb-0 El control para que los transportadores de alimentos lo hagan bajo el cumplimiento de la normatividad estipulada por el Ministerio de Transporte, lo realizan las autoridades de tránsito y transporte, y estos pueden disponer del apoyo de las autoridades sanitarias cuando se considere necesario.
         
 </template>
 

@@ -3,17 +3,18 @@
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1432 729" style="enable-background:new 0 0 1432 729;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#Rectángulo_44086_00000036933482448501087990000011874478900433887920_);}
-	.st1{fill:none;stroke:#28ACD3;stroke-width:8;}
+	.st0{fill:url(#Rectángulo_44086_00000103263193407916866920000018101738548372550803_);}
+	.st1{fill:none;stroke:#28ACD3;stroke-width:4;}
+	.st2{fill:none;stroke:#28ACD3;stroke-width:5;}
 </style>
-<linearGradient id="Rectángulo_44086_00000080167812213295771490000004363685017896348803_" gradientUnits="userSpaceOnUse" x1="-241.9688" y1="904.7586" x2="-241.9688" y2="903.7586" gradientTransform="matrix(930 0 0 -725 225747 655952)">
+<linearGradient id="Rectángulo_44086_00000060003488520791435590000014193246886761240475_" gradientUnits="userSpaceOnUse" x1="-484.7075" y1="0.48" x2="-484.7075" y2="1.48" gradientTransform="matrix(930 0 0 725 451494 -348)">
 	<stop  offset="0" style="stop-color:#C7EDFF"/>
 	<stop  offset="0.2446" style="stop-color:#CDEFFF"/>
 	<stop  offset="0.5554" style="stop-color:#DCF4FF"/>
 	<stop  offset="0.9008" style="stop-color:#F6FCFF"/>
 	<stop  offset="1" style="stop-color:#FFFFFF"/>
 </linearGradient>
-<rect id="Rectángulo_44086" y="2" style="fill:url(#Rectángulo_44086_00000080167812213295771490000004363685017896348803_);" width="1432" height="725"/>
-<line id="Línea_1300" class="st1" x1="0" y1="2" x2="1432" y2="2"/>
-<line id="Línea_1301" class="st1" x1="0" y1="727" x2="1432" y2="727"/>
+<rect id="Rectángulo_44086" style="fill:url(#Rectángulo_44086_00000060003488520791435590000014193246886761240475_);" width="1432" height="725"/>
+<line id="Línea_1300" class="st1" x1="0" y1="0" x2="1432" y2="0"/>
+<line id="Línea_1301" class="st2" x1="0" y1="729" x2="1432" y2="729"/>
 </svg>
