@@ -177,22 +177,19 @@ export default {
       texto:
         'Procolombia. (2014). Logística de perecederos y cadena de frío en Colombia.',
       tipo: 'PDF',
-      link:
-        'https://procolombia.co/sites/all/modules/custom/mccann/mccann_ruta_exportadora/files/06-cartilla-cadena-frio.pdf',
+      descarga: 'downloads/06-cartilla-cadena-frio.pdf',
     },
     {
       texto:
         'Resolución 2674 del 2013. [Ministerio de Salud y Protección Social]. Por la cual se reglamenta el artículo 126 del Decreto-ley 019 de 2012 y se dictan otras disposiciones. 22 de julio de 2013.',
       tipo: 'PDF',
-      link:
-        'https://www.funcionpublica.gov.co/documents/418537/604808/1962.pdf/abe38fb4-e74d-4dcc-b812-52776a9787f6',
+      descarga: 'downloads/1962.pdf',
     },
     {
       texto:
         'Subdirección de Salud Nutricional, Alimentos y Bebidas. (2017). Guía de inocuidad de alimentos y bebidas para la actividad de transporte.',
       tipo: 'PDF',
-      link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SNA/Guia-inocuidad-alimentos-transporte.pdf',
+      descarga: 'downloads/Guia-inocuidad-alimentos-transporte.pdf',
     },
   ],
   creditos: {
