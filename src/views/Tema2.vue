@@ -17,21 +17,21 @@
         .row.align-items-center
           .col-auto
             figure
-              img(src='@/assets/curso/t2/f1.svg' alt='a')
+              img(src='@/assets/curso/t2/f1.svg' alt='a' style='max-width:65px')
           .col
             p.mb-0 Buena higiene personal.
         hr
         .row.align-items-center
           .col-auto
             figure
-              img(src='@/assets/curso/t2/f2.svg' alt='b')
+              img(src='@/assets/curso/t2/f2.svg' alt='b' style='max-width:65px')
           .col
             p.mb-0 Buen estado de salud.
         hr
         .row.align-items-center
           .col-auto
             figure
-              img(src='@/assets/curso/t2/f3.svg' alt='c')
+              img(src='@/assets/curso/t2/f3.svg' alt='c' style='max-width:65px')
           .col
             p.mb-0 Lavado de manos de manera frecuente.
         hr
