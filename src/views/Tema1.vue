@@ -24,8 +24,8 @@
     p.mb-5 Es una serie de procesos logísticos tales como producción, almacenaje, distribución, embalaje, transporte, carga, descarga, comercialización de los productos y hasta llegar al consumidor final.
 
     .col-lg-10.mx-auto.mb-5
-      img(src='@/assets/curso/t1/f3.svg' alt='Imagen relacionada' data-aos='fade-down').mb-4
-      p.text-center En esta etapa, los productos deben permanecer bajo una temperatura definida, la cual debe ser controlada, debido a que:
+      img(src='@/assets/curso/t1/f3.svg' alt='Imagen relacionada' data-aos='fade-down').mb-5
+      p.text-center.mb-5 En esta etapa, los productos deben permanecer bajo una temperatura definida, la cual debe ser controlada, debido a que:
       .cajon.color-secundario.p-4
         p.mb-0 El traslado de los productos bajo las condiciones de temperatura tiene como objetivo conservarlo y evitar o minimizar el riesgo de proliferación de bacterias que afectan la salud de los consumidores.
 
