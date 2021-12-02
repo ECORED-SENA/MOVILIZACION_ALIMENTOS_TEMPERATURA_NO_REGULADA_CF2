@@ -50,7 +50,7 @@
             p Para transportar carga refrigerada o congelada por vía terrestre, se deben tener en cuenta las siguientes recomendaciones:
             figure
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/MhFRnLKylv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .tarjeta.tarjeta--azul.p-4(titulo='Alimento congelado y alimento refrigerado')
         h3 Alimento congelado y alimento refrigerado
         p A continuación se pueden reconocer las diferencias que existen entre un alimento congelado y uno refrigerado.
