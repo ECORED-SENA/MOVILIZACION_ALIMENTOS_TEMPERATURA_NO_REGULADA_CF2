@@ -81,7 +81,7 @@
               img(src='@/assets/curso/t2/f8.png' alt='imagen relacionada')
         .row.align-items-center
           .col-lg-6
-            p Si se presenta una ausencia del trabajo generada por infecciones y que esta pueda dejar secuelas que provoquen contaminación en los alimentos, se obtener otra certificación médica, si es necesario de deben aplicar pruebas de laboratorio, con el objeto de minimizar riesgos de contaminación.
+            p Si se presenta una ausencia del trabajo generada por infecciones y que esta pueda dejar secuelas que provoquen contaminación en los alimentos, se debe obtener una certificación médica, incluso si es necesario aplicar pruebas de laboratorio, con el objeto de minimizar riesgos de contaminación.
           .col-lg-6
             figure
               img(src='@/assets/curso/t2/f9.png' alt='imagen relacionada')
@@ -99,7 +99,7 @@
               img(src='@/assets/curso/t2/f11.png' alt='imagen relacionada')
         .row.align-items-center
           .col-lg-6
-            p Educación sanitaria, principios de buenas prácticas de manufactura, prácticas higiénicas en manipulación de alimentos son capacitaciones que se les debe impartir a los manipuladores de alimentos, estas capacitaciones permiten que puedan tomar medidas de preventivas para evitar contaminación y deterioro de los alimentos. 
+            p Educación sanitaria, principios de buenas prácticas de manufactura, prácticas higiénicas en manipulación de alimentos son capacitaciones que se les debe impartir a los manipuladores de alimentos, estas capacitaciones permiten que puedan tomar medidas preventivas para evitar contaminación y deterioro de los alimentos. 
           .col-lg-6
             figure
               img(src='@/assets/curso/t2/f12.png' alt='imagen relacionada')
@@ -117,7 +117,7 @@
               img(src='@/assets/curso/t2/f14.png' alt='imagen relacionada')
         .row.align-items-center
           .col-lg-6
-            p No se puede salir del lugar de trabajo con el vestuario designado para trabajar, se debe lavas las manos con suficiente agua, jabón y desinfectante antes de comenzar su trabajo o después de salir y regresar al puesto de trabajo, o al manipular materiales diferentes, el cabello debe estar recogido y cubierto por una malla o gorra, no se puede usar maquillaje y para quienes lleven barba, bigote o patillas estas deben estar cubiertas, las uñas deben permanecer limpias, cortas y sin maquillaje, el calzado debe ser de material resistente, de tacón bajo y de material resistente. 
+            p No se puede salir del lugar de trabajo con el vestuario designado para trabajar, se debe lavas las manos con suficiente agua, jabón y desinfectante antes de comenzar su trabajo o después de salir y regresar al puesto de trabajo, o al manipular materiales diferentes, el cabello debe estar recogido y cubierto por una malla o gorra, no se puede usar maquillaje y para quienes lleven barba, bigote o patillas estas deben estar cubiertas, las uñas deben permanecer limpias, cortas y sin maquillaje, el calzado debe ser de tacón bajo y de material resistente. 
           .col-lg-6
             figure
               img(src='@/assets/curso/t2/f15.png' alt='imagen relacionada')
@@ -206,7 +206,7 @@
           .text-white.px-5.pt-4.pb-5
             p.mb-5 Debe tener condiciones que impidan contaminación o proliferación de microorganismos, así como evitar alteraciones en los productos, daños en el envase o embalaje.
           .text-white.px-5.pt-4.pb-5
-            p.mb-5 Los insumos o materias primas que por su naturaleza requieran mantenerse refrigerados o en su defecto congelados, se debe usar las condiciones que garanticen dichas condiciones, desde su origen hasta el destino.
+            p.mb-5 Los insumos o materias primas que por su naturaleza requieran mantenerse refrigerados o en su defecto congelados, se debe usar los medios que garanticen dichas condiciones, desde su origen hasta el destino.
           .text-white.px-5.pt-4.pb-5
             p.mb-5 Los sistemas de refrigeración o congelación de los medios de transporte utilizados deben garantizar el adecuado funcionamiento de los equipos.
           .text-white.px-5.pt-4.pb-5
